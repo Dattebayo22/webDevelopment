@@ -1,0 +1,19 @@
+.myButton{
+    padding: 10px 10px;
+    background-color: hsl(180, 100%, 50%);
+    color: black !important;
+    border-radius: 100px;
+    margin: 10px 10px;
+    font-size: 4rem;
+    cursor: pointer;
+    position:relative;
+}   
+body{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+#result{
+    font-size: 2rem;
+    color: rgb(244, 5, 5);;
+}
